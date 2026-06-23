@@ -1,0 +1,14 @@
+# Environment files
+.env
+*.env
+.env.*
+
+# Local secret files
+*secret*
+*password*
+prod_db_password.txt
+
+# OS/editor noise
+.DS_Store
+.vscode/
+.idea/
