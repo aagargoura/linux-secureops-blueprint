@@ -1,4 +1,4 @@
-# Linux Secrets Production Blueprint
+# Linux SecureOps Blueprint
 
 Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls.
 
