@@ -1,8 +1,5 @@
 # Linux Secrets Production Blueprint
 
-[![Security](https://img.shields.io/badge/Security-Credentials-red)](#)
-[![Linux](https://img.shields.io/badge/Linux-Runtime-blue)](#)
-
 Production-grade guidance, examples, and operational practices for securing Linux systems, managing secrets, and implementing DevSecOps controls.
 
 ## Overview
@@ -20,7 +17,7 @@ The repository provides practical documentation, examples, and automation script
 - Security Monitoring & Auditing
 - Infrastructure Security
 
-The goal is to provide a production-oriented reference for engineers, system administrators, DevOps engineers, SREs, and security practitioners.
+> The goal is to provide a production-oriented reference for engineers, system administrators, DevOps engineers, SREs, and security practitioners.
 
 
 ## Objectives
